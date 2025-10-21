@@ -45,28 +45,11 @@ API RESTful desenvolvida com Flask, permitindo cadastro, listagem e exclusão de
 > Exemplo de integração backend com estrutura limpa e escalável.
 ---
 
-## 📚 Formação Acadêmica
-
-🎓 **Análise e Desenvolvimento de Sistemas** – UniFanor Wyden (2025–2027)  
-🎓 **Programação Full Stack com IA** – Infinity School (2025–2026)  
-🎓 **Gestão de Recursos Humanos** – Faculdade do Vale do Jaguaribe (2009–2012)  
-
----
-
 ## 🧠 Atualmente aprendendo
 - Desenvolvimento Web Fullstack (Python, Flask, Django)  
 - Integração de APIs RESTful  
 - Automação de processos com Python  
 - Melhores práticas de UI/UX  
-
----
-
-## 📈 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula" alt="Top Languages" height="160"/>
-</p>
 
 ---
 
