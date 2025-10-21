@@ -1,9 +1,4 @@
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/seu-usuario/seu-repositorio/blob/main/banner-natalia-solheiro.png" alt="Banner - Natalia Solheiro" width="100%">
-</p>
-
 # 👋 Olá, eu sou a Natalia Solheiro!
 
 💻 **Desenvolvedora Fullstack Jr | Python | Desenvolvimento Web | JavaScript**
