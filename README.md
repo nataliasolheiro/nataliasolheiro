@@ -11,9 +11,8 @@ Minha trajetória combina experiência administrativa, coordenação e suporte t
 ## 🚀 Tecnologias & Ferramentas
 
 **💡 Linguagens & Frameworks**
-- Python (Flask, Django)
+- Python (Flask)
 - HTML5, CSS3, JavaScript, TypeScript
-- R (Análise de dados)
 
 
 **🛠️ Ferramentas & Práticas**
@@ -28,7 +27,7 @@ Minha trajetória combina experiência administrativa, coordenação e suporte t
 
 ### 🐍 **[Gerenciador de Tarefas em Python](#)**
 Aplicação de linha de comando para cadastrar, editar e remover tarefas com prioridades e categorias.  
-**Tecnologias:** Python, SQLite  
+**Tecnologias:** Python, SQL
 > Um projeto prático para reforçar lógica de programação e manipulação de banco de dados.
 
 ---
